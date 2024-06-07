@@ -1,0 +1,37 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+.container{
+  border: 1px red solid;
+  width:80%;
+  height: 55vh;
+  margin: 10% auto;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 0px 20px 10px 20px;
+}
+button{
+  background-color: rgb(7, 99, 79);
+  width: 120px;
+  padding: 10px;
+  border: 2px red solid;
+  border-radius: 30px;
+  color: aliceblue;
+  font-weight:bolder;
+}
+button:hover{
+  background-color: rgb(255, 42, 0);
+}
+#jokes{
+  font-size: 1em;
+  width: 80%;
+  margin: 15px auto;
+  height: auto;
+  border: 2px rgb(255, 42, 0) solid;
+  border-radius: 5px;
+  text-align: center;
+  padding: 50px 5px;
+  color: rgb(105, 1, 22);
+}
